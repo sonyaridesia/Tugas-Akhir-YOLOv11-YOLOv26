@@ -1,0 +1,14 @@
+# 3/15 iterations complete ✅ (2865.78s)
+# Results saved to /content/drive/MyDrive/Dataset_Face_Emotion_fixed/runs_yolov26/yolov26_tune
+# Best fitness=0.31729 observed at iteration 3
+# Best fitness metrics are {'metrics/precision(B)': 0.33866, 'metrics/recall(B)': 0.71888, 'metrics/mAP50(B)': 0.49819, 'metrics/mAP50-95(B)': 0.31729, 'val/box_loss': 1.32354, 'val/cls_loss': 0.95054, 'val/dfl_loss': 0.00781, 'fitness': 0.31729}
+# Best fitness model is /content/drive/MyDrive/Dataset_Face_Emotion_fixed/runs_yolov26/yolov26_tune/weights
+lr0: 0.02662
+lrf: 0.01
+momentum: 0.75213
+weight_decay: 0.0
+warmup_epochs: 3.45852
+warmup_momentum: 0.9017
+box: 7.50502
+cls: 0.50665
+dfl: 0.97922
